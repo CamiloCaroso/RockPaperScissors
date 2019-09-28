@@ -1,0 +1,50 @@
+body {
+    font-family: 'Be Vietnam', sans-serif;
+    background: #ebebeb;
+
+}
+
+#selection, #p, #computer{
+    display:inline-block;
+    padding: 10px;
+}
+
+.container {
+    background: #ebebeb;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    margin-top: 240px;
+}
+
+#winsSquare, #tieSquare, #lossesSquare{
+    display:inline-block;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.container-2{
+    text-align: center;
+}
+
+#selectionSquare, #computerSquare{
+    display:inline-block;
+}
+.tsize {
+    font-size: 16px;
+}
+#p{
+    position: relative;
+    bottom: 40px;
+}
+
+#wint{
+    color: #3dad4e;
+}
+#lossest {
+    color: #cf1f1f;
+}
+#tiet{
+    color: #757575;
+}
